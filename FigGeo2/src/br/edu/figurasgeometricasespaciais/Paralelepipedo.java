@@ -52,7 +52,7 @@ public class Paralelepipedo extends FigEspaciais {
 		System.out.println("Digite o valor da altura do prisma: ");
 		altura = sc.nextDouble();
 		System.out.println("O valor da primeira aresta da base é: "+aresta1);
-		System.out.println("O valor da psegunda aresta da base: ");
+		System.out.println("O valor da segunda aresta da base é: "+aresta2);
 
 		
 	  
